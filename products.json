@@ -1,0 +1,154 @@
+[
+    {
+      "name": "accent chair",
+      "price": 25,
+      "company": "marcos",
+      "rating": 4,
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "albany sectional",
+      "price": 109,
+      "company": "liddy",
+      "rating": 5,
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "albany table",
+      "price": 309,
+      "company": "liddy",
+      "rating": 4.9,
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "armchair",
+      "price": 125,
+      "company": "marcos",
+      "rating": 4.8,
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "bar stool",
+      "price": 40,
+      "company": "liddy",
+      "rating": 4.6,
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "dining table",
+      "price": 42,
+      "company": "ikea",
+      "rating": 4.55,
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "emperor bed",
+      "price": 23,
+      "company": "ikea",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "entertainment center",
+      "price": 59,
+      "featured": true,
+      "company": "caressa",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "high-back bench",
+      "price": 39,
+      "featured": true,
+      "company": "ikea",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+  
+    {
+      "name": "leather sofa",
+      "price": 99,
+      "company": "caressa",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "modern bookshelf",
+      "price": 31,
+      "featured": true,
+      "company": "caressa",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "modern poster",
+      "price": 30,
+      "company": "liddy",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "shelf",
+      "price": 30,
+      "company": "ikea",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "simple chair",
+      "price": 109,
+      "company": "liddy",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "sofa set",
+      "price": 129,
+      "company": "marcos",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "suede armchair",
+      "price": 15,
+      "company": "caressa",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "utopia sofa",
+      "price": 79,
+      "featured": true,
+      "company": "liddy",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "vase table",
+      "price": 120,
+      "featured": true,
+      "company": "marcos",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "wooden bed",
+      "price": 25,
+      "company": "ikea",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "wooden desk",
+      "price": 15,
+      "company": "ikea",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "wooden desk",
+      "price": 40,
+      "company": "ikea",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "caressa",
+      "img":"https://loremflickr.com/640/480/technics"
+    },
+    {
+      "name": "a first wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "caressa",
+      "img":"https://loremflickr.com/640/480/technics"
+    }
+  ]
